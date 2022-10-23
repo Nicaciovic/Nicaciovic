@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicaciovic
+- 👋 Hi, I’m Victoria A. Nicacio 
 - 👀 I’m interested in programing, electrical engineering, automation.
 - 🌱 I’m currently learning electrical engineering, python and C#
 - 💞️ I’m looking to collaborate on GitHub 
